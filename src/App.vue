@@ -85,8 +85,9 @@
           QUIT_SIMPLE: '27',
           TO_SIMPLE: ''
         }),
+        useAudioContext: 0,
         openSetQCookie: 0,
-        showDrawMusic: '1',
+        showDrawMusic: '0',
         drawMusicType: 1,
       });
 
