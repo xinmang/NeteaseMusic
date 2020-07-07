@@ -96,7 +96,7 @@
           </div>
         </el-tooltip>
 
-        <input id="cp-share-input" :value="changeUrlQuery({ shareId: playNow.id, from: playNow.platform, shareCid: playNow.cid }, 'http://music.jsososo.com/#/', false)">
+        <input id="cp-share-input" :value="changeUrlQuery({ shareId: playNow.id, from: playNow.platform, shareCid: playNow.cid }, 'http://y.xingmang.net/#/', false)">
         <!-- 分享 -->
         <el-tooltip class="item" effect="dark" content="分享" placement="top">
           <div class="inline-block ml_5 pd_5">
